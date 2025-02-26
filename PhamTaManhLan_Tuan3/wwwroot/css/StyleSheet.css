@@ -1,0 +1,84 @@
+﻿.custom-edit-btn {
+    background-color: #4CAF50; /* Màu xanh lá */
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.custom-view-btn {
+    background-color: #f4d678;
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.custom-delete-btn {
+    background-color: #FF5733; /* Màu cam đỏ */
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.custom-edit-btn:hover {
+    background-color: #45a049; /* Màu xanh đậm hơn khi hover */
+}
+.custom-view-btn:hover {
+    background-color: #45a049; /* Màu xanh đậm hơn khi hover */
+}
+
+.custom-delete-btn:hover {
+    background-color: #e04e25; /* Màu đỏ đậm hơn khi hover */
+}
+.table-custom {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table-custom th, .table-custom td {
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+    .table-custom th {
+        background-color: #f4f4f4;
+        text-align: left;
+    }
+
+    /* Hover effect cho hàng */
+    .table-custom tr:hover {
+        background-color: #f5f5f5;
+    }
+
+/* Tùy chỉnh hiển thị category */
+.category-available {
+    color: green;
+    font-weight: bold;
+}
+
+.category-missing {
+    color: red;
+    font-style: italic;
+}
+.custom-add-btn {
+    background-color: #800080; /* Màu tím */
+    color: white;
+    border-radius: 5px;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+    .custom-add-btn:hover {
+        background-color: #6a006a; /* Màu tím đậm hơn khi hover */
+    }
+.product-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover; /* Đảm bảo ảnh không bị méo */
+    border-radius: 5px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
