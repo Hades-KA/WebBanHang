@@ -50,7 +50,7 @@ namespace PhamTaManhLan_Tuan3.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CateBgoryId")
+                    b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<int?>("CategoryId")
@@ -102,7 +102,7 @@ namespace PhamTaManhLan_Tuan3.Migrations
 
             modelBuilder.Entity("PhamTaManhLan_Tuan3.Models.Product", b =>
                 {
-                    b.HasOne("NguyenThanhPhu_3.Models.Category", "Category")
+                    b.HasOne("PhamTaManhLan_Tuan3.Models.Category", "Category")
                         .WithMany("Products")
                         .HasForeignKey("CategoryId");
 
@@ -111,7 +111,7 @@ namespace PhamTaManhLan_Tuan3.Migrations
 
             modelBuilder.Entity("PhamTaManhLan_Tuan3.Models.ProductImage", b =>
                 {
-                    b.HasOne("NguyenThanhPhu_3.Models.Product", "Product")
+                    b.HasOne("PhamTaManhLan_Tuan3.Models.Product", "Product")
                         .WithMany("Images")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)

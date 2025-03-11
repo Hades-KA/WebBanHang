@@ -3,64 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\migrations\\20250225031120_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\migrations\\20250225031120_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\migrations\\20250225031120_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\migrations\\20250225031120_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\migrations\\20250222083606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\migrations\\20250222083606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\phamtamanhlan_tuan3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|c:\\users\\asus\\source\\repos\\phamtamanhlan_tuan3\\phamtamanhlan_tuan3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0D1814-6F5D-4A4D-8516-922232F23399}|PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj|solutionrelative:phamtamanhlan_tuan3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,194 +66,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwIQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:59:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T01:57:51.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T01:19:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T01:19:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T01:14:05.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Program.cs",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Program.cs",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:13:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:13:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T01:12:51.362Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T15:38:28.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAmwAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:34:24.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250222083606_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250222083606_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Migrations\\20250222083606_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250222083606_InitialCreate.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Migrations\\20250222083606_InitialCreate.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:25:36.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:42:57.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Program.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Program.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:56:13.842Z",
+              "WhenOpened": "2025-03-11T00:54:14.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\appsettings.json",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\appsettings.json",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T14:19:41.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T14:58:14.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T14:59:54.48Z"
+              "DocumentIndex": 11,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAGceAAAAAAAAAADwvyQiAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T00:48:16.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-25T15:03:00.522Z"
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADjZwYAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T00:48:13.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T00:47:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T13:59:38.617Z"
+              "WhenOpened": "2025-03-11T00:41:51.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250225031120_Init.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:29:45.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T14:58:40.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250225031120_Init.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.Designer.cs",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.Designer.cs",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\Migrations\\20250225031120_Init.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:30:07.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PhamTaManhLan_Tuan3.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T15:05:06.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Styles.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css",
-              "RelativeDocumentMoniker": "PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhamTaManhLan_Tuan3\\PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css",
-              "RelativeToolTip": "PhamTaManhLan_Tuan3\\wwwroot\\css\\Styles.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwEMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-25T14:41:23.96Z"
+              "WhenOpened": "2025-03-11T00:41:49.897Z"
             }
           ]
         }
